@@ -13,6 +13,12 @@ I didn't provide way to run app locally **on purpose**, because I believe that a
 I didn't implement all CRUD operations for transactions because I thought that updating transactions doesn't make sense for current requirements.  
 I also assumed that users are managed in another service/part of app so I just worked with **userId**.
 
+# Used technologies
+Java 17, Spring Boot, Spring Web, Spring Data,  
+JUnit 5, Testcontainers, RestAssured,  
+MySQL, Docker,
+Lombok, Joda Money
+
 # Rough estimation on work schedule
 ### Monday 9/10/23 (2h in total)
 Start: 18:00  
